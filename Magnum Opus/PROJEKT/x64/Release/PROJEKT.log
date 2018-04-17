@@ -1,0 +1,13 @@
+﻿  ComplexDivergence.cpp
+ComplexDivergence.cpp(54): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+ComplexDivergence.cpp(77): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+ComplexDivergence.cpp(100): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+ComplexDivergence.cpp(139): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+ComplexDivergence.cpp(170): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+ComplexDivergence.cpp(296): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  34 of 89 functions (38.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  PROJEKT.vcxproj -> C:\Users\bkosc\OneDrive - Politechnika Warszawska\Portfolio\DO SPR\Magnum Opus\x64\Release\PROJEKT.exe
