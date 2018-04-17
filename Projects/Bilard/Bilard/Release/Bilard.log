@@ -1,0 +1,47 @@
+﻿  winbgi2.cpp
+winbgi2.cpp(555): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1080): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1083): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1093): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1094): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1096): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1099): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1331): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1332): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1333): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1334): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1343): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1344): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1626): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2114): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+winbgi2.cpp(2161): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2162): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2183): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2204): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2213): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2229): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2230): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2241): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Źródło.cpp
+Źródło.cpp(38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(79): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(79): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+Źródło.cpp(80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(80): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+Źródło.cpp(81): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(81): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+Źródło.cpp(83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(83): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+Źródło.cpp(84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(95): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+Źródło.cpp(95): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(99): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+Źródło.cpp(99): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(104): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+Źródło.cpp(111): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+Źródło.cpp(112): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  All 67 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Bilard.vcxproj -> C:\Users\bkosc\OneDrive - Politechnika Warszawska\Portfolio\DO SPR\Bilard\Release\Bilard.exe

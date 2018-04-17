@@ -1,0 +1,11 @@
+﻿  MonteCarlo.cpp
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(32): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(69): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(81): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(82): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(133): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(134): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(137): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\monte carlo integral\montecarlointegral\montecarlo.cpp(138): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  MonteCarloIntegral.vcxproj -> C:\Users\bkosc\OneDrive - Politechnika Warszawska\Portfolio\DO SPR\Monte Carlo Integral\Debug\MonteCarloIntegral.exe

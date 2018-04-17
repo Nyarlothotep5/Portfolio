@@ -1,0 +1,20 @@
+﻿  Źródło.cpp
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(79): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(79): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(80): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(81): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(81): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(83): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(95): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(95): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(99): warning C4244: "argument": konwersja z "const double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(99): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(104): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(111): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bkosc\onedrive - politechnika warszawska\portfolio\do spr\bilard\bilard\źródło.cpp(112): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Bilard.vcxproj -> C:\Users\bkosc\OneDrive - Politechnika Warszawska\Portfolio\DO SPR\Bilard\Debug\Bilard.exe
