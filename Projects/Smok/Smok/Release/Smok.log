@@ -1,0 +1,31 @@
+﻿  winbgi2.cpp
+winbgi2.cpp(555): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1080): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1083): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1093): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1094): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1096): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1099): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1331): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1332): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1333): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1334): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+winbgi2.cpp(1343): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1344): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(1626): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2114): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+winbgi2.cpp(2161): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2162): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2183): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2204): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2213): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2229): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2230): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+winbgi2.cpp(2241): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Źródło.cpp
+  Trwa generowanie kodu
+  48 of 51 functions (94.1%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Smok.vcxproj -> C:\Users\bkosc\OneDrive - Politechnika Warszawska\Portfolio\DO SPR\Smok\Release\Smok.exe
