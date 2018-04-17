@@ -6,4 +6,5 @@ W folderze "Apps" znajdują się wersje ostateczne stworzonych aplikacji, podcza
 
 Pozwoliłem sobie umieścić największy dotychszasowy projekt w folderze "Magnum Opus". Jest to kod, któremu poświęciłem najwięcej czasu i dzięki któremu pokochałem geometrię fraktalną wraz ze wszystkimi zagadnieniami wiążącymi się z nią. 
 Chciałbym w przyszłości dalej rozwijać i modyfikować ten program, więc nie mogę powiedzieć, że widzę ten projekt jako skończony, ale jestem z niego niezwykle dumny już w obecnej postaci. Jest to najważniejsza rzecz w tym repozytorium i być może jedyna potrzebna do oceny moich umiejętności. 
+
 Zapraszam do przeglądania!
