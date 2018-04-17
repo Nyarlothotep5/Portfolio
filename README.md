@@ -8,3 +8,7 @@ Pozwoliłem sobie umieścić największy dotychszasowy projekt w folderze "Magnu
 Chciałbym w przyszłości dalej rozwijać i modyfikować ten program, więc nie mogę powiedzieć, że widzę ten projekt jako skończony, ale jestem z niego niezwykle dumny już w obecnej postaci. Jest to najważniejsza rzecz w tym repozytorium i być może jedyna potrzebna do oceny moich umiejętności. 
 
 Zapraszam do przeglądania!
+
+
+Dodatkowo link do portfolio uzupełnionego o laboratoria informatyczne i paczki z projektami:
+https://wutwaw-my.sharepoint.com/:f:/g/personal/292749_pw_edu_pl/Ejf52tyIDJhFv3vVr0_76XIBsdLXD2lRQirwKljJcJ2wFQ?e=463ajr
