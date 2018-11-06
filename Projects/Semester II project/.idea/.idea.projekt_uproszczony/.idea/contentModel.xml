@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\bkosc\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_projekt_uproszczony.1232176739.00" t="ExcludeRecursive" />
+    <e p="C:\Users\bkosc\OneDrive - Politechnika Warszawska\Semestr II\Informatyka II\Info II\projekt_uproszczony" t="IncludeFlat">
+      <e p="Debug" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="projekt_uproszczony" t="IncludeRecursive">
+        <e p="Debug" t="ExcludeRecursive" />
+        <e p="projekt_uproszczony.vcxproj" t="IncludeRecursive" />
+        <e p="rk4.cpp" t="Include" />
+        <e p="rk4.h" t="Include" />
+        <e p="winbgi2.cpp" t="Include" />
+        <e p="winbgi2.h" t="Include" />
+        <e p="Źródło.cpp" t="Include" />
+      </e>
+      <e p="projekt_uproszczony.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
