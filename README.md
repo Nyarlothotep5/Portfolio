@@ -1,5 +1,8 @@
 # Portfolio
 
+Please browse through the rest of my repositories to see the entirety of my published work.
+Proszę przejrzeć również resztę repozytoriów, aby zobaczyć całokształt opublikowanej przeze mnie pracy.
+
 ***EN***
 The folders contained in this repository present my previous IT projects, mainly university ones. I wanted to show both the final results of the work and how I got to them, so codes are available with the applications.
 
