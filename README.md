@@ -1,6 +1,7 @@
 # Portfolio
 
 Please browse through the rest of my repositories to see the entirety of my published work.
+
 Proszę przejrzeć również resztę repozytoriów, aby zobaczyć całokształt opublikowanej przeze mnie pracy.
 
 ***EN***
